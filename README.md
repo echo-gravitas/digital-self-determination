@@ -1,6 +1,6 @@
 # Digital Self-Determination
 
-*by Dark Star, April 2025*
+*by Ralph Bolliger, April 2025*
 
 What if I told you that every click you make, every move you take, someone is watching you? Not in a dystopian novel. Not in some foreign regime. But *here.* Every day. In your pocket. By design.
 
