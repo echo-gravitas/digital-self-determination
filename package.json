@@ -1,0 +1,23 @@
+{
+  "name": "digital-self-determination",
+  "version": "1.0.0",
+  "description": "A 2025 reinterpretation of the Cypherpunk Manifesto, focusing on Digital Self-Determination in the age of surveillance capitalism and algorithmic control.",
+  "homepage": "https://github.com/echo-gravitas/digital-self-determination#readme",
+  "bugs": {
+    "url": "https://github.com/echo-gravitas/digital-self-determination/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echo-gravitas/digital-self-determination.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "Ralph Bolliger",
+    "email": "ralph.bolliger@me.com",
+    "url": "https://ralphbolliger.ch"
+  },
+  "devDependencies": {
+    "@darkstar/prettier": "^1.0.1"
+  },
+  "prettier": "@darkstar/prettier"
+}
