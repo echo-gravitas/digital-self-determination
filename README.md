@@ -23,14 +23,15 @@ We were told:
 
 > “If you have nothing to hide, you have nothing to fear.”
 
-But here’s the truth: **If you have no privacy, you have no freedom.**
+But here’s the truth: **Where there is no privacy, fear rules — and freedom
+fades.**
 
-Now, the Cypherpunks of the ‘90s had a bold idea: They said, "We will write
+Now, the Cypherpunks of the '90s had a bold idea: They said, "We will write
 code. We will encrypt. We will disappear if we must." And in many ways, they
 were right. Without encryption, there is no safety online.
 
-But let’s be honest: encryption alone won’t save us. A locked bunker with Linux
-isn’t a society.
+But let’s be honest: encryption alone won’t save us. It’s not enough if only
+tech experts can protect themselves — we need digital safety for all.
 
 We don’t just need secure _tools_. We need secure _systems_. And _just_
 societies.
