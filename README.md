@@ -1,67 +1,100 @@
 # Digital Self-Determination
 
-_by Ralph Bolliger, April 2025_
+_by Ralph Bolliger_
 
 [German version](README_DE.md)
 
-Digital life is no longer optional. We live, work, vote, and relate online. But
-the rules of this world were not written by the people who live in it. They were
-written in code, by actors we didn’t elect, for goals we didn’t choose — often
-optimized for profit rather than for people.
+Digital participation has become a prerequisite for social participation. We
+work, learn, organize politically, maintain relationships, and exercise our
+rights increasingly through digital systems. Those who are excluded from these
+systems—or structurally disadvantaged within them—lose real freedom.
 
-So the question is political: Who controls your digital identity? Is it you? Or
-a data broker across the ocean, a cloud provider you’ll never meet, or an opaque
-algorithm deciding whether you get a loan, a job, or a visa?
+Yet the rules of this digital world were not written by the people who live in
+it. They were cast into code by actors we did not elect, for purposes we did not
+define, often optimized for profit, efficiency, or control rather than for human
+dignity.
 
-Freedom begins with control over who we are, digitally. Data isn’t the new oil.
-Data is you. And taking your data means taking power over you.
+That is why the central question is not a technical one, but a political one:  
+**Who controls your digital identity—and who makes decisions based on it?**  
+You? Or companies whose business models rely on behavioral prediction? Or state
+systems that derive power from opacity and data access?
 
-We were told: “If you have nothing to hide, you have nothing to fear.” But a
-society without privacy is a society ruled by fear — and a society where freedom
-shrinks.
+Freedom begins where people retain control over the decisions that affect them.
+Digital data is not neutral raw material. It represents behavior, relationships,
+preferences, and risks—and is used to allocate or deny opportunities. Whoever
+controls this data holds power over people.
 
-The Cypherpunks of the ’90s were right to insist on encryption. Without it,
-there is no safety online. But encryption alone isn’t enough. It can’t be a
-privilege for experts. We need security and privacy for everyone.
+We were told: _“If you have nothing to hide, you have nothing to fear.”_  
+But privacy is not protection for wrongdoing; it is a precondition for freedom.
+A society without privacy is a society governed by self-censorship, conformity,
+and fear—and one in which democratic agency steadily erodes.
 
-That means we need secure tools and secure systems — and just societies.
+The cypherpunks of the 1990s were right: without encryption, there is no
+security online. But they were only partly right. **Security alone does not
+create self-determination.**  
+When protective tools are understood only by experts, usable only by the
+privileged, and maintained only at high personal cost, technology merely shifts
+power—it does not distribute it.
 
-Right now, privacy is a luxury. You can buy it if you have the knowledge, the
-time, and the money. But what about the teacher with three jobs? The migrant
-without documents? The teenager whose phone is their only link to the world?
-They don’t need a VPN. They need justice.
+Digital self-determination therefore requires more than tools. It requires
+structures.
 
-Technology is never neutral. Every line of code makes a choice. Every algorithm
-carries a worldview. Every platform becomes a form of power. Big Tech doesn’t
-just connect people — it governs them, ranks them, and extracts from them.
-Governments worldwide are building their own systems of control, frequently in
-partnership with the platforms we rely on, demanding backdoors and data access.
+Today, privacy is effectively a luxury. You can afford it if you have the time,
+knowledge, and money. But what about people working multiple jobs? Migrants
+without secure legal status? Teenagers for whom a smartphone is their only
+connection to the world?  
+These people do not need _only_ technical safeguards. They need systems that do
+not force them to become experts in order to be safe, visible, and capable of
+acting. They need justice by design.
 
-Digital self-determination means saying: enough. Enough black boxes. Enough
-surveillance capitalism. Enough design optimized for addiction, manipulation,
-and control.
+Technology is not neutral. Every architecture encodes assumptions about what is
+desirable, permissible, or profitable. Every algorithm prioritizes
+values—explicitly or implicitly. Platforms are not mere intermediaries. They
+structure attention, behavior, and opportunity. And they concentrate power.
 
-We need a digital world built for dignity, not dominance. Where trust is
-optimized — not tracking. Where privacy is not a feature, but the default.
+At the same time, governments around the world are building digital control
+infrastructures—often in close partnership with private platforms. Under the
+banners of security, efficiency, or innovation, systems emerge that normalize
+surveillance and undermine democratic oversight.
 
-And we don’t have to wait. We can begin now.
+Digital self-determination means drawing a line.
 
-We can:
+Enough opaque systems deciding access to credit, work, visibility, or freedom of
+movement without being explainable or contestable.  
+Enough business models optimized for manipulation, dependency, and perpetual
+behavioral extraction.  
+Enough design that treats people as resources rather than as holders of rights.
 
-- Demand and build systems based on transparency, user control, and open
-  standards.
-- Champion public digital infrastructures that resist corporate capture and
-  state control.
-- Foster algorithms designed for fairness and human dignity, not just
-  engagement.
-- Establish digital rights that don’t expire after a software update.
+We need a digital world built on dignity rather than dominance.  
+A world where trust matters more than tracking.  
+Where privacy is not an optional feature, but the default.  
+And where trade-offs—between security and freedom, innovation and control—are
+made explicit and decided democratically, rather than hidden in code.
 
-This work needs all of us — not just hackers or lawmakers. Teachers, nurses,
-artists, parents, skeptics — you. Whether you organize, educate, design,
-advocate, legislate, or simply speak up, your contribution matters. You don’t
-need to write code to write history.
+And we do not have to wait.
 
-So consider this an invitation: don’t settle for “terms and conditions.” Demand
-a say. Be a builder. Be a critic. Be a pain in the server rack.
+## We can begin now
 
-Digital self-determination starts now. And it starts with you.
+- Demand and build systems that make user control, transparency, and open
+  standards non-negotiable—especially where digital decisions shape real life
+  outcomes.
+- Develop and defend public digital infrastructures that serve the common good
+  and resist both private monopolization and state abuse of power.
+- Design algorithms and digital processes so that fairness, accountability, and
+  human dignity take precedence over maximum engagement.
+- Establish digital rights that do not expire with terms-of-service updates or
+  platform changes.
+
+This work is not the task of an elite. It needs educators and designers,
+caregivers and lawyers, parents, artists, activists, skeptics—and you. Digital
+self-determination emerges wherever people intervene: in education, design,
+procurement, legislation, organization, and public debate.
+
+You do not need to write code to make history.
+
+Reject passivity. Refuse to accept power hidden behind interfaces. Demand
+participation. Build. Question loudly.  
+Be a disturbance in the server rack.
+
+**Digital self-determination begins now.  
+And it begins with us.**
